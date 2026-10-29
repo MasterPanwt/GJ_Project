@@ -107,3 +107,7 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# 个人测试区，不提交
+GameJam/Assets/_Sandbox/
+GameJam/Assets/_Sandbox.meta
